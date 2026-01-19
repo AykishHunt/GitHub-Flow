@@ -1,5 +1,5 @@
 import { DndContext,closestCenter, PointerSensor, useSensor,useSensors} from "@dnd-kit/core";
-import { arrayMove,SortableContext, verticalListSortingStrategy,  sortableKeyboardCoordinates,useSortable,} from "@dnd-kit/sortable"
+import {SortableContext, verticalListSortingStrategy,useSortable,} from "@dnd-kit/sortable"
 import { CSS } from "@dnd-kit/utilities"
 const columns = ["todo", "inprogress", "completed"]
 const TaskCard = ({ task }) => {
