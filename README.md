@@ -1,2 +1,8 @@
 Project title:  Kanbann
-Description: Kanban Project where a user whose task is asigned can move from one column to another.
+Description: A Kanban-style project management app where users can move tasks between columns to track progress efficiently.
+
+Tech Stack
+ React  
+ Tailwind CSS  
+ React Hooks / Context API  
+ Lucide React 
